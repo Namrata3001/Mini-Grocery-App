@@ -1,0 +1,17 @@
+#items{
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+    justify-content: center;
+}
+
+#items > div > img{
+    width: 200px;
+    height:200px;
+    padding-top: 20%;
+}
+
+#navbar{
+    display: flex;
+    justify-content:space-between;
+}
+

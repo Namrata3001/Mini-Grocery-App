@@ -1,0 +1,11 @@
+#cart{
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+    justify-content: center;
+}
+
+#cart > div > img{
+    width: 200px;
+    height:200px;
+    padding-top: 20%;
+}
